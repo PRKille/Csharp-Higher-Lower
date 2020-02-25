@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.csprojAssemblyReference.cache
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.AssemblyInfo.cs
+/Users/Guest/Desktop/higher-lower-game/bin/Debug/netcoreapp2.2/HigherLowerGame.deps.json
+/Users/Guest/Desktop/higher-lower-game/bin/Debug/netcoreapp2.2/HigherLowerGame.runtimeconfig.json
+/Users/Guest/Desktop/higher-lower-game/bin/Debug/netcoreapp2.2/HigherLowerGame.runtimeconfig.dev.json
+/Users/Guest/Desktop/higher-lower-game/bin/Debug/netcoreapp2.2/HigherLowerGame.dll
+/Users/Guest/Desktop/higher-lower-game/bin/Debug/netcoreapp2.2/HigherLowerGame.pdb
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.dll
+/Users/Guest/Desktop/higher-lower-game/obj/Debug/netcoreapp2.2/HigherLowerGame.pdb
