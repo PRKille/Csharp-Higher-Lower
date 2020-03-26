@@ -1,15 +1,12 @@
 # _Higher/Lower Game_
 
-#### _An application that lets a use rplay the Higher Lower Game against the computer. , Feb 2020_
+#### _An application that lets a user play the Higher Lower Game against the computer. , Feb 2020_
 
 #### By _**Patrick Kille & Benjamin Thom**_
 
 ## Description
 
 A user enters a number and the computer will guess the user's number. The game ends when the computer guesses the correct number.
-
-## Preview
-![Landing Page Preview](img/image file name here)
 
 ## Project Specifications
 
@@ -28,19 +25,16 @@ _In Terminal:_
 * Navigate to where you want this application to be saved, i.e.:
 ```cd desktop```
 * Clone the file from GitHub with HTTPS
-```git clone https://github.com/benjamin-thompdx/doctor-lookup.git```
-* Open file in your preferred text editor
-* On Mac: ```open -a {your text editor} doctor-lookup```
-* On Windows: ```doctor-lookup```
+```git clone https://github.com/PRKille/Csharp-Higher-Lower.git```
+* Navigate to Csharp-Higher-Lower folder and run the command "dotnet run"
 
 _Download Manually:_
 
-* Navigate to https://github.com/benjamin-thompdx/doctor-lookup.
+* Navigate to https://github.com/PRKille/Csharp-Higher-Lower.
 * Click the green "Clone or Download" button.
 * Click "Download ZIP".
 * Click downloaded file to unzip.
-* Open folder called "doctor-lookup".
-* Right-click "index.html" and select your preferred browser or text editor.
+* Navigate to Csharp-Higher-Lower folder and run the command "dotnet run"
 
 _Note For Editors:_ 
 * Download the .NET Core SDK [Software Development Kit](https://dotnet.microsoft.com/download)
@@ -55,8 +49,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/benjamin-thompdx/doctor-lookup/issues) here on GitHub._
-
+_Have a bug or an issue with this application? Please open a pull request.
 ## Technologies Used
 
 * C#
